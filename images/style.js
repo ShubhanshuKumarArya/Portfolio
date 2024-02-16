@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Vedio Editior", "Vediographer"],
+        strings: ["Video Editior", "Videographer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
